@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "description": "Socket.io chat app",
+  "main": "server.js",
+  "authors": [
+    "Cathal Killeen"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cathal-killeen/socket-chat-app",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
